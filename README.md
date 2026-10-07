@@ -23,7 +23,10 @@
 ### AI 활용 풀스택(프론트엔드·백엔드) 부트캠프
 
 - **기간:** 2026.05 ~ 2026.11
-- **교육 과정:** Java, Python, Flutter
+- **웹·모바일 개발:** HTML, CSS, JavaScript, React 기반 SPA 및 Flutter 앱 구현
+- **백엔드·데이터베이스:** RESTful API, Spring Boot, NestJS, MySQL, MongoDB, Firebase
+- **프로젝트:** Spring Boot 팀 프로젝트, React 개인 프로젝트, Flutter 프로젝트 수행
+- **협업·배포:** Git/GitHub 형상관리 및 AWS 클라우드 배포
 
 ## 💻 Tech Stack
 
