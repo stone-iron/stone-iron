@@ -72,13 +72,6 @@
 - 테스트 가능한 코드 작성
 - React와 Spring Boot의 안정적인 연동
 
-## 📚 Currently Learning
-
-- Spring Security 기반 인증·인가
-- REST API 설계와 예외 처리
-- JPA 연관관계와 트랜잭션
-- 테스트 가능한 코드 작성
-- React와 Spring Boot의 안정적인 연동
 
 ## 📊 GitHub Activity
 
