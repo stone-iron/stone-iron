@@ -54,7 +54,8 @@
 ## 🛠️ 개인 프로젝트
 
 - 🛒 [실시간 공동구매 플랫폼 여기모여](https://github.com/kimdyssey/group-buy-platform)  
-  구매자·판매자 역할 기반 회원가입과 공동구매 기능을 제공하는 풀스택 서비스  
+  구매자·판매자 역할 기반 회원가입과 공동구매 기능을 제공하는 풀스택 서비스
+  
   `Java` `Spring Boot` `JPA` `MySQL` `React` `TypeScript`
 
 - ⚽ [설치없이 즐기는 게임모음 사이트 겜허브](https://github.com/kimdyssey/game-hub)  
