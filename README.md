@@ -53,7 +53,7 @@
 
 ## 🛠️ 개인 프로젝트
 
-- 🛒 [실시간 공동구매 플랫폼 여기모여](https://github.com/stone-iron/group-buy-platform)  
+- 🛒 [실시간 공동구매 플랫폼 여기모여](https://github.com/stone-iron/group-buy)  
   구매자·판매자 역할 기반 회원가입과 공동구매 기능을 제공하는 풀스택 서비스
   
   `Java` `Spring Boot` `JPA` `MySQL` `React` `TypeScript`
