@@ -53,13 +53,13 @@
 
 ## 🛠️ 개인 프로젝트
 
-- 🛒 [실시간 공동구매 플랫폼](https://github.com/kimdyssey/group-buy-platform)  
+- 🛒 [실시간 공동구매 플랫폼 여기모여](https://github.com/kimdyssey/group-buy-platform)  
   구매자·판매자 역할 기반 회원가입과 공동구매 기능을 제공하는 풀스택 서비스  
   `Java` `Spring Boot` `JPA` `MySQL` `React` `TypeScript`
 
-- ⚽ [풋살 예약 서비스](https://github.com/kimdyssey/futsal-booking)  
-  풋살 경기장과 일정을 확인하고 예약할 수 있는 웹 서비스  
-  `Java` `Spring Boot` `MySQL`
+- ⚽ [설치없이 즐길 수 있는 겜허브](https://github.com/kimdyssey/futsal-booking](https://github.com/stone-iron/game-hub)  
+  설치 없이 바로 즐기는 실시간 멀티플레이 보드게임 사이트
+  `Java` `Spring Boot` `CSS3`
 
 
 ## 📚 Currently Learning
