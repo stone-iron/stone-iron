@@ -9,10 +9,11 @@
 
 </div>
 
-<br>
+<div align="center">
 
-[![Notion Portfolio](https://img.shields.io/badge/Notion-포트폴리오-000000?style=for-the-badge&logo=notion&logoColor=white)]((https://app.notion.com/p/3ea07f67b9a181d58aeddc74a0dec581))
+[![Notion Portfolio](https://img.shields.io/badge/Notion-포트폴리오-000000?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/3ea07f67b9a181d58aeddc74a0dec581)
 
+</div>
 ## 🌱 About Me
 
 - Java와 Spring Boot 기반의 웹 서비스 개발을 공부하고 있습니다.
