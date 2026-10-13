@@ -69,7 +69,7 @@
 - 🛒 **실시간 공동구매 플랫폼 여기모여**  
   구매자·판매자 역할 기반 회원가입과 공동구매 기능을 제공하는 풀스택 서비스
 
-  🐙 **GitHub:** [stone-iron/group-buy](https://github.com/stone-iron/group-buy)  
+   **GitHub:** [stone-iron/group-buy](https://github.com/stone-iron/group-buy)  
   🌐 **배포 주소:** [여기모여 바로가기](https://gather-here.duckdns.org)
   
   `Java` `Spring Boot` `JPA` `MySQL` `React` `TypeScript`
@@ -77,7 +77,7 @@
 - 🎮 **설치 없이 즐기는 실시간 게임 플랫폼 겜허브**  
   오목, 그림맞추기, 십자격돌을 제공하는 실시간 멀티플레이 보드게임 서비스
 
-  🐙 **GitHub:** [stone-iron/game-hub](https://github.com/stone-iron/game-hub)  
+  [![GitHub](https://img.shields.io/badge/GitHub-stone--iron%2Fgame--hub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/stone-iron/game-hub)
   
   `Java` `Spring Boot` `CSS3`
 
