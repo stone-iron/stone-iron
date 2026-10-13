@@ -61,6 +61,8 @@
   :octocat: **GitHub:** [chean0830/festival-project](https://github.com/chean0830/festival-project)
   
   🌐 **배포 주소:** [FESTLOG 바로가기](https://festlog.duckdns.org) (준비중)
+  
+  🎬 시연 영상: [YouTube에서 보기](https://youtu.be/ehantzYyvIQ)
 
   **담당 역할:** 라이브 스트리밍·후원·유료 입장 기능, 계정 설정, 홈 화면 UI 구현  
   **개발 기간:** 2026.08 ~ 2026.09
@@ -77,6 +79,8 @@
   :octocat: **GitHub:** [stone-iron/group-buy](https://github.com/stone-iron/group-buy)
   
   🌐 **배포 주소:** [여기모여 바로가기](https://gather-here.duckdns.org)
+
+  🎬 시연 영상: [YouTube에서 보기](https://youtu.be/9SUwiNCAIAk)
   
   `Java` `Spring Boot` `JPA` `MySQL` `React` `TypeScript`
 
@@ -84,6 +88,8 @@
   오목, 그림맞추기, 십자격돌을 제공하는 실시간 멀티플레이 보드게임 서비스
 
   :octocat: **GitHub:** [stone-iron/game-hub](https://github.com/stone-iron/game-hub)
+  
+  🎬 시연 영상: [YouTube에서 보기](https://youtu.be/Z6it64K7N6Q)
   
   `Java` `Spring Boot` `CSS3`
 
