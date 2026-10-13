@@ -66,8 +66,8 @@
 
 ## 🛠️ 개인 프로젝트
 
-[![GitHub](https://img.shields.io/badge/GitHub-소스_코드-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/stone-iron/group-buy)
-[![Deploy](https://img.shields.io/badge/Deploy-서비스_바로가기-13B982?style=flat-square&logo=googlechrome&logoColor=white)](https://gather-here.duckdns.org)
+  🐙 **GitHub:** [stone-iron/group-buy](https://github.com/stone-iron/group-buy)  
+  🌐 **배포 주소:** [여기모여 바로가기](https://gather-here.duckdns.org)
   
   `Java` `Spring Boot` `JPA` `MySQL` `React` `TypeScript`
 
