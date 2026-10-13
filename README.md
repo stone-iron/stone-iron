@@ -55,12 +55,15 @@
 
 ## 👥 팀 프로젝트
 
-### 🟢 [Festlog | 축제 커뮤니티·라이브 플랫폼](https://github.com/chean0830/festival-project)
+- 🎪 **FESTLOG | 축제 커뮤니티·라이브 플랫폼**  
+  축제 정보와 커뮤니티, 라이브 방송을 한곳에서 제공하는 통합 플랫폼
 
-- **역할:** 라이브 스트리밍·후원·유료 입장 기능, 계정 설정, 홈 화면 UI 구현
-- **기간:** 2026.08 ~ 2026.09
-- **목표:** 축제 정보와 커뮤니티, 라이브 방송을 한곳에서 제공하는 통합 플랫폼 구현
-- **기술:** `Java` `Spring Boot` `Spring Security` `JPA` `MySQL` `React`
+  :octocat: **GitHub:** [chean0830/festival-project](https://github.com/chean0830/festival-project)
+
+  **담당 역할:** 라이브 스트리밍·후원·유료 입장 기능, 계정 설정, 홈 화면 UI 구현  
+  **개발 기간:** 2026.08 ~ 2026.09
+
+  `Java` `Spring Boot` `Spring Security` `JPA` `MySQL` `Redis` `React` `JavaScript` `WebSocket` `LiveKit` `Toss Payments`
 
 ---
 
