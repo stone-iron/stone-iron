@@ -59,6 +59,7 @@
   축제 정보와 커뮤니티, 라이브 방송을 한곳에서 제공하는 통합 플랫폼
 
   :octocat: **GitHub:** [chean0830/festival-project](https://github.com/chean0830/festival-project)
+  🌐 **배포 주소:** [FESTLOG 바로가기](https://festlog.duckdns.org)
 
   **담당 역할:** 라이브 스트리밍·후원·유료 입장 기능, 계정 설정, 홈 화면 UI 구현  
   **개발 기간:** 2026.08 ~ 2026.09
