@@ -77,7 +77,7 @@
 - 🎮 **설치 없이 즐기는 실시간 게임 플랫폼 겜허브**  
   오목, 그림맞추기, 십자격돌을 제공하는 실시간 멀티플레이 보드게임 서비스
 
-  [![GitHub](https://img.shields.io/badge/GitHub-stone--iron%2Fgame--hub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/stone-iron/game-hub)
+  :octocat: **GitHub:** [stone-iron/game-hub](https://github.com/stone-iron/game-hub)
   
   `Java` `Spring Boot` `CSS3`
 
