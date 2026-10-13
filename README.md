@@ -70,6 +70,7 @@
   구매자·판매자 역할 기반 회원가입과 공동구매 기능을 제공하는 풀스택 서비스
 
   :octocat: **GitHub:** [stone-iron/group-buy](https://github.com/stone-iron/group-buy)
+  
   🌐 **배포 주소:** [여기모여 바로가기](https://gather-here.duckdns.org)
   
   `Java` `Spring Boot` `JPA` `MySQL` `React` `TypeScript`
